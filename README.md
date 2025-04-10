@@ -1,4 +1,5 @@
-<h2 align="left">Oi 👋! Eu sou a Bruna!</h2>
+?lines= <h2 align="left">Oi+👋+!+ Eu+ sou+ a+ Bruna+!</h2>
+
 
 ###
 
