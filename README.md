@@ -1,4 +1,4 @@
-<h2 align="left">Oi👋! Eu sou a Bruna!</h2>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F772CB&width=435&lines=Oi+%F0%9F%91%8B%F0%9F%8F%BB!+Eu+sou+a+Bruna!" alt="Typing SVG" /></a>
 
 
 ###
