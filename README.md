@@ -1,14 +1,12 @@
 <h1 align="center">Oii! Eu sou a Bruna!</h1>
 
-<h1 align="center"></h1>
-
 ###
 
 <h3 align="left">👩‍💻  Sobre mim</h3>
 
 ###
 
-<p align="left">- 🔭 Estudante de Análise e Desenvolvimento de Sistemas<br>- 📚 Atualmente estou aprendendo Python e Fundamentos de Dados<br></p>
+<p align="left">- 🔭 Estudante de Análise e Desenvolvimento de Sistemas<br>- 📚 Atualmente estou aprendendo Python e Fundamentos de Dados<br>- 👩🏻‍💻 Sou uma estudante que migrou para a área de TI este ano.<br>👩🏻‍🚀 Amo aprender e me considero uma pessoa curiosa, dedicada e super motivada. Sou apaixonada por resolver problemas e gosto de entender como as coisas funcionam. A tecnologia me encanta porque, além de estudar, o que mais amo é colocar em prática o que aprendo. :)<br><br>Aqui, estou documentando minha jornada e evolução na área.<br>Sinta-se à vontade para explorar e acompanhar. Espero que goste! 🚀</p></p>
 
 ###
 
