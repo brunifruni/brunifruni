@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- 🔭 Estudante de Análise e Desenvolvimento de Sistemas<br>- 📚 Atualmente estou aprendendo Python e Fundamentos de Dados<br>- ⚡ No me tempo livre e</p>
+<p align="left">- 🔭 Estudante de Análise e Desenvolvimento de Sistemas<br>- 📚 Atualmente estou aprendendo Python e Fundamentos de Dados<br></p>
 
 ###
 
