@@ -1,7 +1,5 @@
 <h1 align="center">Oii! Eu sou a Bruna!</h1>
 
-###
-
 <h1 align="center"></h1>
 
 ###
