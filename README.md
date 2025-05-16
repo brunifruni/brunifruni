@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋🏻, eu sou a Bruna!</h1>
-<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas | Foco em Cibersegurança | Criadora de Conteúdo Técnico</h3>
+<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas </h3>
 
 ---
 
@@ -18,9 +18,9 @@ Sou uma estudante apaixonada por tecnologia que fez a transição da área da sa
 
 - 🌐 Desenvolvimento Web (HTML, CSS, JS)
 - 🛡️ Cibersegurança
-- 📱 UX/UI Design
-- 🤖 Lógica de Programação e Algoritmos
-- 💻 Projetos open-source e colaboração
+- 🤖 IA e Fundamentos de Dados
+- 💻 Lógica de Programação e Algoritmos
+
 
 ---
 
