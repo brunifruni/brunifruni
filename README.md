@@ -9,8 +9,6 @@
 
 <br clear="both">
 
-<img align="right" height="120" src="https://i.pinimg.com/originals/6f/61/0d/6f610dbfd3dc58b777305988bc9c4456.gif"  />
-
 ###
 
 <div align="left">
@@ -47,9 +45,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=brunifruni&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&order=1" height="150" alt="Gráfico de estatísticas"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brunifruni&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="Gráfico de linguagens"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/brunifruni/brunifruni/output/snake.svg" alt="Animação da cobrinha" />
 
 ###
