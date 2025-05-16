@@ -1,49 +1,70 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F772CB&width=435&lines=Oi+%F0%9F%91%8B%F0%9F%8F%BB!+Eu+sou+a+Bruna!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F772CB&width=435&lines=Oi+%F0%9F%91%8B%F0%9F%8F%BB!+Eu+sou+a+Bruna!" alt="Typing SVG" />
+</a>
 
+<h1 align="center">Oi 👋🏻, eu sou a Bruna!</h1>
+<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas | Foco em Cibersegurança | Criadora de Conteúdo Técnico</h3>
 
-###
+---
 
-<p align="left">Seja bem-vindo(a)!<br><br>👩🏻‍💻 Sou uma estudante que migrou para a área de TI este ano.<br>👩🏻‍🚀 Amo aprender e me considero uma pessoa curiosa, dedicada e super motivada. Sou apaixonada por resolver problemas e gosto de entender como as coisas funcionam. A tecnologia me encanta porque, além de estudar, o que mais amo é colocar em prática o que aprendo. :)<br><br>Aqui, estou documentando minha jornada e evolução na área.<br>Sinta-se à vontade para explorar e acompanhar. Espero que goste! 🚀</p>
+### ✨ Sobre mim
 
-###
+<p align="left">
+Sou uma estudante apaixonada por tecnologia que fez a transição da área da saúde para a TI. <br><br>
+👩🏻‍💻 Atualmente, curso Análise e Desenvolvimento de Sistemas com foco em Cibersegurança. Tenho me dedicado ao estudo de desenvolvimento web, algoritmos, lógica de programação e segurança da informação.<br><br>
+🚀 Me considero curiosa, analítica e motivada por desafios. Gosto de transformar conhecimento em prática e estou constantemente documentando minha jornada aqui no GitHub.<br><br>
+🌱 Sempre em busca de novos aprendizados, colaboro em projetos, crio conteúdos técnicos e exploro novas possibilidades dentro da tecnologia.
+</p>
 
-<br clear="both">
+---
 
-###
+### 🎯 Interesses Atuais
 
+- 🌐 Desenvolvimento Web (HTML, CSS, JS)
+- 🛡️ Cibersegurança
+- 📱 UX/UI Design
+- 🤖 Lógica de Programação e Algoritmos
+- 💻 Projetos open-source e colaboração
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+**Linguagens & Front-end**
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="Logo do JavaScript"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="Logo do HTML5"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="Logo do CSS3"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Logo do Python"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Logo do Figma"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Logo do Git"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
 </div>
 
-###
+**Outras linguagens e ferramentas**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma" />
+</div>
+
+---
+
+### 📬 Onde me encontrar
 
 <div align="left">
   <a href="https://www.youtube.com/@brunafranzon" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Logo do YouTube"  />
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
   <a href="https://www.linkedin.com/in/bruna-franzon-4a8a23355/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Logo do LinkedIn"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
-  <a href="https://criarmeulink.com.br/u/1744226160" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Logo do Gmail"  />
+  <a href="mailto:brukifranzon@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
 </div>
 
-###
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brunifruni&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&order=1" height="150" alt="Gráfico de estatísticas"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brunifruni&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="Gráfico de linguagens"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=brunifruni&show_icons=true&theme=dracula&locale=pt-br&hide_border=false" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brunifruni&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150"/>
 </div>
-
-###
