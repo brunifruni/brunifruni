@@ -1,50 +1,49 @@
-<h1 align="center">Oii! Eu sou a Bruna!</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F772CB&width=435&lines=Oi+%F0%9F%91%8B%F0%9F%8F%BB!+Eu+sou+a+Bruna!" alt="Typing SVG" /></a>
+
 
 ###
 
-<h3 align="left">👩‍💻  Sobre mim</h3>
+<p align="left">Seja bem-vindo(a)!<br><br>👩🏻‍💻 Sou uma estudante que migrou para a área de TI este ano.<br>👩🏻‍🚀 Amo aprender e me considero uma pessoa curiosa, dedicada e super motivada. Sou apaixonada por resolver problemas e gosto de entender como as coisas funcionam. A tecnologia me encanta porque, além de estudar, o que mais amo é colocar em prática o que aprendo. :)<br><br>Aqui, estou documentando minha jornada e evolução na área.<br>Sinta-se à vontade para explorar e acompanhar. Espero que goste! 🚀</p>
 
 ###
 
-<p align="left">- 👩🏻‍💻 Sou uma estudante que migrou para a área de TI este ano.<br>- 👩🏻‍🚀 Amo aprender e me considero uma pessoa curiosa, dedicada e super motivada. Sou apaixonada por resolver problemas e gosto de entender como as coisas funcionam. A tecnologia me encanta porque, além de estudar, o que mais amo é colocar em prática o que aprendo. :)<br><br>Aqui, estou documentando minha jornada e evolução na área.<br>Sinta-se à vontade para explorar e acompanhar. Espero que goste! 🚀</p></p>
-
-###
-
-<h3 align="left">🛠 Linguagens e Ferramentas</h3>
+<br clear="both">
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="Logo do JavaScript"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="Logo do HTML5"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="Logo do CSS3"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Logo do Python"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Logo do Figma"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Logo do Git"  />
 </div>
 
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/bruna-franzon-4a8a23355/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+<div align="left">
+  <a href="https://www.youtube.com/@brunafranzon" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Logo do YouTube"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="https://www.linkedin.com/in/bruna-franzon-4a8a23355/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Logo do LinkedIn"  />
+  </a>
+  <a href="https://criarmeulink.com.br/u/1744226160" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Logo do Gmail"  />
+  </a>
 </div>
-
-###
-
-<h3 align="left">🔥   Meu Status:</h3>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brunifruni&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=brunifruni&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&order=1" height="150" alt="Gráfico de estatísticas"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brunifruni&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="Gráfico de linguagens"  />
 </div>
 
-###
+### 
