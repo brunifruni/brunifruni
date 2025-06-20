@@ -3,7 +3,14 @@
 
 ###
 
-<p align="left">Seja bem-vindo(a)!<br><br>👩🏻‍💻 Sou uma estudante que migrou para a área de TI este ano.<br>👩🏻‍🚀 Amo aprender e me considero uma pessoa curiosa, dedicada e super motivada. Sou apaixonada por resolver problemas e gosto de entender como as coisas funcionam. A tecnologia me encanta porque, além de estudar, o que mais amo é colocar em prática o que aprendo. :)<br><br>Aqui, estou documentando minha jornada e evolução na área.<br>Sinta-se à vontade para explorar e acompanhar. Espero que goste! 🚀</p>
+<p align="left">Seja bem-vindo(a)!<br><br>👩🏻‍💻 Sou uma estudante que migrou para a área de TI este ano.
+<br>
+👩🏻‍🚀 Amo aprender e me considero uma pessoa curiosa, dedicada e super motivada. Sou apaixonada por resolver problemas e gosto de entender como as coisas funcionam. A tecnologia me encanta porque, consigo ajudar as pessoas, criando soluções para problemas reais. :)<br>
+<br>
+Aqui, estou documentando minha jornada e evolução na área.
+<br>
+Sinta-se à vontade para explorar e acompanhar. Espero que goste! 🚀
+</p>
 
 ###
 
