@@ -1,16 +1,10 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F772CB&width=435&lines=Oi+%F0%9F%91%8B%F0%9F%8F%BB!+Eu+sou+a+Bruna!" alt="Typing SVG" /></a>
+### Hi there 👋
+## My name is Bruna
 
-
-###
-
-<p align="left">Seja bem-vindo(a)!<br><br>👩🏻‍💻 Sou uma estudante que migrou para a área de TI este ano.
-<br>
-👩🏻‍🚀 Amo aprender e me considero uma pessoa curiosa, dedicada e super motivada. Sou apaixonada por resolver problemas e gosto de entender como as coisas funcionam. A tecnologia me encanta porque, consigo ajudar as pessoas, criando soluções para problemas reais. :)<br>
-<br>
-Aqui, estou documentando minha jornada e evolução na área.
-<br>
-Sinta-se à vontade para explorar e acompanhar. Espero que goste! 🚀
-</p>
+- 👩‍💻 I'm a System Development Student 
+- 📊 I'm currently learning Data Analysis with Microsoft Azure
+- 🤖 I have certifications in cybersecurity, Power BI, English (C1) and AI and Data Fundamentals
+- 💜 I have a strong interest in data analysis, cybersecurity, and technological solutions for real-world problems.
 
 ###
 
