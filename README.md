@@ -1,5 +1,5 @@
-### Hi there 👋
-## My name is Bruna
+## Hi there 👋
+### My name is Bruna
 
 - 👩‍💻 I'm a System Development Student 
 - 📊 I'm currently learning Data Analysis with Microsoft Azure
