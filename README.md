@@ -24,6 +24,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Logo do Figma"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Logo do Git"  />
+  <img stc="https://logos-world.net/wp-content/uploads/2021/03/Azure-Logo-2020-present.png" height="30" alt="Logo do Azure"  />
+  <img width="12" />
 </div>
 
 ###
